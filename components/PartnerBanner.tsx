@@ -21,6 +21,7 @@ export function PartnerBanner() {
             priority
             sizes="100vw"
             quality={100}
+            unoptimized={true}
             className="object-cover"
           />
         </div>
