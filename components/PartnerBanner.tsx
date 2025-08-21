@@ -15,7 +15,7 @@ export function PartnerBanner() {
       <div className="relative overflow-hidden rounded-xl border">
         <div className="relative aspect-[16/3] w-full">
           <Image
-            src="/grass-inference-logs.png"
+            src="/grass-inference-logos.png"
             alt="Grass × Inference"
             fill
             priority
